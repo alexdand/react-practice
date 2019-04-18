@@ -1,0 +1,21 @@
+h1,
+h2 {
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 25px 0;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+img {
+  background-color: #200838;
+  border-radius: 100%;
+  margin-top: 50px;
+  width: 50px;
+}

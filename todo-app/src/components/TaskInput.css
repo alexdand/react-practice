@@ -1,0 +1,26 @@
+input {
+  border: none;
+  border-radius: 5px 0 0 5px;
+  padding: 0 15px;
+  height: 40px;
+  font-size: 14px;
+  width: 300px;
+}
+
+button {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bolder;
+  height: 40px;
+  width: 40px;
+}
+
+button:hover {
+  background-color: #532582;
+  border: 5px solid #3c1860;
+  color: #ffffff;
+  transition: 0.3s;
+}
